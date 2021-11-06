@@ -1,0 +1,20 @@
+{
+  "name": "appchat",
+  "version": "0.0.5",
+  "description": "nothing",
+  "main": "index.js",
+  "scripts": {
+    "test": "index.js",
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "chatapp"
+  ],
+  "author": "ridho808",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^4.3.1"
+  },
+  "devDependencies": {}
+}
